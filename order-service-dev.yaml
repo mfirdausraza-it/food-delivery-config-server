@@ -5,7 +5,7 @@ server:
 # This is the dev config for order-service
 my:
   custom:
-    message: "Hello Jim from Config Server (DEV Profile)!"
+    message: "Hello Mikeeeee from Config Server (DEV Profile)!"
 
 #Log Pattern
 logging:
