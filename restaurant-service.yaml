@@ -5,10 +5,10 @@ spring:
   application:
     name: restaurant-service
 
-eureka:
-  client:
-    service-url:
-      defaultZone: http://discovery-server:8761/eureka/
+# eureka:
+#   client:
+#     service-url:
+#       defaultZone: http://discovery-server:8761/eureka/
 
 #Log Pattern
 logging:
